@@ -1,6 +1,10 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/VsevolodZaostrovsky" target="_blank">Vsevolod</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">MSU MMF student </h3>
+### Hi 👋
+
+My name is Vsevolod and I am a Lomonosov Moscow State University student interested in quantitative finance and econometrics.
+
+The latest version of my resume is available [here](https://github.com/VsevolodZaostrovsky/VsevolodZaostrovsky/blob/main/VsevolodZaostrovsky_cv.pdf).
+
+Key Skills: C / C++ / Python / R / Rust
 
 <!--
 **VsevolodZaostrovsky/VsevolodZaostrovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
